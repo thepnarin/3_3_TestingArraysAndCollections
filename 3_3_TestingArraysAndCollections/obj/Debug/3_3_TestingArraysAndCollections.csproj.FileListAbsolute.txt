@@ -1,0 +1,6 @@
+D:\[OOP] - Object Oriented Programming\Test\3_3_TestingArraysAndCollections\3_3_TestingArraysAndCollections\bin\Debug\3_3_TestingArraysAndCollections.exe.config
+D:\[OOP] - Object Oriented Programming\Test\3_3_TestingArraysAndCollections\3_3_TestingArraysAndCollections\bin\Debug\3_3_TestingArraysAndCollections.exe
+D:\[OOP] - Object Oriented Programming\Test\3_3_TestingArraysAndCollections\3_3_TestingArraysAndCollections\bin\Debug\3_3_TestingArraysAndCollections.pdb
+D:\[OOP] - Object Oriented Programming\Test\3_3_TestingArraysAndCollections\3_3_TestingArraysAndCollections\obj\Debug\3_3_TestingArraysAndCollections.csprojAssemblyReference.cache
+D:\[OOP] - Object Oriented Programming\Test\3_3_TestingArraysAndCollections\3_3_TestingArraysAndCollections\obj\Debug\3_3_TestingArraysAndCollections.exe
+D:\[OOP] - Object Oriented Programming\Test\3_3_TestingArraysAndCollections\3_3_TestingArraysAndCollections\obj\Debug\3_3_TestingArraysAndCollections.pdb
